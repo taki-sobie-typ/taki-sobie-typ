@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patryk</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">Passionate about frontend, linux server administration</h3>
 
 <h3 align="left">About me:</h3>
