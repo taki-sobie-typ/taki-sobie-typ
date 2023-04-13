@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <img alt="HTML5" src="https://custom-icon-badges.demolab.com/badge/HTML5-de611f?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://custom-icon-badges.demolab.com/badge/CSS3-3371ff?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
