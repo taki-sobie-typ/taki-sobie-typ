@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Patryk 👨🏻‍💻</h1>
-<h3 align="center">Passionate about websites development and linux server administration</h3>
+<h1 align="left">Hello, I'm Patryk 👨🏻‍💻</h1>
+<h3 align="left">Passionate about websites development and linux server administration</h3>
 
 <h2 align="left">About me:</h2>
 <p align="left">
@@ -13,7 +13,7 @@ I am a student at Wroclaw University of Science and Technology, majoring in Comp
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="#"><img alt="HTML5" src="https://custom-icon-badges.demolab.com/badge/HTML5-de611f?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="#"><img alt="CSS3" src="https://custom-icon-badges.demolab.com/badge/CSS3-3371ff?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
