@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Patryk 👨🏻‍💻</h1>
 <h3 align="center">Passionate about websites development and linux server administration</h3>
 
-<h3 align="left">About me:</h3>
+<h2 align="left">About me:</h2>
 <p align="left">
 I am a student at Wroclaw University of Science and Technology, majoring in Computer Science. My main interests lie in web development, specifically in creating websites and web applications, as well as in Linux system administration. My ambition is to constantly improve my skills and stay up to date with the latest trends and tools in the IT industry.  I am always seeking new challenges and opportunities to expand my knowledge and experience, and to deliver the best possible results.
 </p>
