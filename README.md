@@ -14,15 +14,15 @@ I am a student at Wroclaw University of Science and Technology, majoring in Comp
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="#"><img alt="HTML5" src="https://custom-icon-badges.demolab.com/badge/HTML5-de611f?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="#"><img alt="CSS3" src="https://custom-icon-badges.demolab.com/badge/CSS3-3371ff?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="#"><img alt="JS" src="https://custom-icon-badges.demolab.com/badge/JS-ffe91a?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="#"><img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-666666?style=for-the-badge&logo=Linux&logoColor=white" /></a>
   <a href="#"><img alt="BASH" src="https://custom-icon-badges.demolab.com/badge/BASH-00000F?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
   <a href="https://neovim.io/"><img alt="NVIM" src="https://custom-icon-badges.demolab.com/badge/NVIM-0e9800?style=for-the-badge&logo=neovim&logoColor=white" /></a>
+  <a href="#"><img alt="HTML5" src="https://custom-icon-badges.demolab.com/badge/HTML5-de611f?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="#"><img alt="CSS3" src="https://custom-icon-badges.demolab.com/badge/CSS3-3371ff?style=for-the-badge&logo=css3&logoColor=white" /></a>
   <a href="https://discordapp.com/users/326057287108263948/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
