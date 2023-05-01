@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Patryk 👨🏻‍💻</h1>
-<h3 align="left">Passionate about websites development and linux server administration</h3>
+<h3 align="left">Passionate about website development and linux server administration</h3>
 
 <h2 align="left">About me:</h2>
 <p align="left">
