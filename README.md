@@ -9,7 +9,7 @@ I am a student at Wroclaw University of Science and Technology, majoring in Comp
 - <p align="left">:mailbox_with_mail: How to reach me: <a href="mailto:PatrykPietrzyk@protonmail.com"><img alt="PatrykPietrzyk@protonmail.com" src="https://img.shields.io/badge/PatrykPietrzyk@protonmail.com-6d4aff?style=plastic&logo=protonmail&logoColor=white" /></a>, <a href="https://linkedin.com/in/patryk-pietrzyk-116011246"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=plastic&logo=linkedin&logoColor=white" /></a>, <a href="https://github.com/taki-sobie-typ"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white" /></a>, <a href="https://discordapp.com/users/326057287108263948/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" /></a>, <a href="https://signal.org/"><img alt="Signal" src="https://img.shields.io/badge/Signal-3a76f0?style=plastic&logo=signal&logoColor=white" /></a></p>
 - :blue_book: Student of [Wrocław Univeristy of Science and Technology](https://pwr.edu.pl/en/) majoring in Technical Computer Science
 
-- 💥 Most advanced project: [EXPLOZJATALENTOW website for passionate youngsters](https://github.com/taki-sobie-typ/explozjatalentow)
+- 💥 Most advanced project: [Explozja Talentów](https://github.com/taki-sobie-typ/explozjatalentow) website for passionate youngsters
 
 
 
