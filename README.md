@@ -6,9 +6,10 @@
 I am a student at Wroclaw University of Science and Technology, majoring in Computer Science. My main interests lie in web development, specifically in creating websites and web applications, as well as in Linux system administration. My ambition is to constantly improve my skills and stay up to date with the latest trends and tools in the IT industry.  I am always seeking new challenges and opportunities to expand my knowledge and experience, and to deliver the best possible results.
 </p>
 
-- 📫 How to reach me PatrykPietrzyk@protonmail.com
+- <p align="left">:mailbox_with_mail: How to reach me: <a href="mailto:PatrykPietrzyk@protonmail.com"><img alt="PatrykPietrzyk@protonmail.com" src="https://img.shields.io/badge/PatrykPietrzyk@protonmail.com-6d4aff?style=plastic&logo=protonmail&logoColor=white" /></a>, <a href="linkedin.com/in/patryk-pietrzyk-116011246"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=plastic&logo=linkedin&logoColor=white" /></a>, <a href="https://github.com/taki-sobie-typ"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=plastic&logo=github&logoColor=white" /></a>, <a href="https://discordapp.com/users/326057287108263948/"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white" /></a>, <a href="https://signal.org/"><img alt="Signal" src="https://img.shields.io/badge/Signal-3a76f0?style=plastic&logo=signal&logoColor=white" /></a></p>
+- :blue_book: Student of [Wrocław Univeristy of Science and Technology](https://pwr.edu.pl/en/) majoring in Technical Computer Science
 
-- ⚡Student of [Wrocław Univeristy of Science and Technology](https://pwr.edu.pl/en/) majoring in Technical Computer Science
+- 💥 Most advanced project: [EXPLOZJATALENTOW website for passionate youngsters](https://github.com/taki-sobie-typ/explozjatalentow)
 
 
 
