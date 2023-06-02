@@ -16,6 +16,7 @@ I am a student at Wroclaw University of Science and Technology, majoring in Comp
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="#"><img alt="JS" src="https://custom-icon-badges.demolab.com/badge/JS-ffe91a?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-3a75b0?style=for-the-badge&logo=java&logoColor=white" /></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
   <a href="#"><img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="#"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
